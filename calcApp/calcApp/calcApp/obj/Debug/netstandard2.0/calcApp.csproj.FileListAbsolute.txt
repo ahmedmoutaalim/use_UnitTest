@@ -1,0 +1,14 @@
+C:\Users\Youcode\Desktop\use_UnitTest\calcApp\calcApp\calcApp\bin\Debug\netstandard2.0\calcApp.deps.json
+C:\Users\Youcode\Desktop\use_UnitTest\calcApp\calcApp\calcApp\bin\Debug\netstandard2.0\calcApp.dll
+C:\Users\Youcode\Desktop\use_UnitTest\calcApp\calcApp\calcApp\bin\Debug\netstandard2.0\ref\calcApp.dll
+C:\Users\Youcode\Desktop\use_UnitTest\calcApp\calcApp\calcApp\bin\Debug\netstandard2.0\calcApp.pdb
+C:\Users\Youcode\Desktop\use_UnitTest\calcApp\calcApp\calcApp\obj\Debug\netstandard2.0\calcApp.csprojAssemblyReference.cache
+C:\Users\Youcode\Desktop\use_UnitTest\calcApp\calcApp\calcApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Youcode\Desktop\use_UnitTest\calcApp\calcApp\calcApp\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Youcode\Desktop\use_UnitTest\calcApp\calcApp\calcApp\obj\Debug\netstandard2.0\calcApp.AssemblyInfoInputs.cache
+C:\Users\Youcode\Desktop\use_UnitTest\calcApp\calcApp\calcApp\obj\Debug\netstandard2.0\calcApp.AssemblyInfo.cs
+C:\Users\Youcode\Desktop\use_UnitTest\calcApp\calcApp\calcApp\obj\Debug\netstandard2.0\calcApp.csproj.CoreCompileInputs.cache
+C:\Users\Youcode\Desktop\use_UnitTest\calcApp\calcApp\calcApp\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Youcode\Desktop\use_UnitTest\calcApp\calcApp\calcApp\obj\Debug\netstandard2.0\calcApp.dll
+C:\Users\Youcode\Desktop\use_UnitTest\calcApp\calcApp\calcApp\obj\Debug\netstandard2.0\ref\calcApp.dll
+C:\Users\Youcode\Desktop\use_UnitTest\calcApp\calcApp\calcApp\obj\Debug\netstandard2.0\calcApp.pdb
